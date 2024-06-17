@@ -1,0 +1,10 @@
+
+™	java:S116."RRename this field "Idtoken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×®‹³úÿÿÿÿ8Ü¦Œ°‚2J$2ca7bb19-3489-4d46-8ee1-67bacc6ad0bd
+	java:S1165"VRename this field "org_country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢’ƒ×øÿÿÿÿ8ÿ¦Œ°‚2J$cdced3ba-10f8-4afc-8c9a-447dc1691b39
+š	java:S1166"SRename this field "org_sub1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ¾Ëıÿÿÿÿ8ÿ¦Œ°‚2J$f72948ca-639b-40b9-a283-1bbec5ddf70f
+•	java:S1167"SRename this field "org_sub2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ñŞş8ÿ¦Œ°‚2J$c0114c00-d282-459f-8271-5dbc919afebe
+•	java:S1168"SRename this field "org_sub3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÅ•†8ÿ¦Œ°‚2J$22349079-1402-4178-8c7d-d9300db91c62
+“
+java:S1128	"PRemove this unused import 'org.springframework.data.mongodb.core.mapping.DBRef'.(°‘íâ8¨¨Œ°‚2J$d155df88-2d0a-4955-b17b-f0ebba0ae4f8
+¤
+java:S1128"\Remove this unused import 'org.springframework.data.mongodb.core.mapping.DocumentReference'.(¿÷÷˜üÿÿÿÿ8†¬ç°‚2J$a48673a8-702a-4902-9c77-0584db411149

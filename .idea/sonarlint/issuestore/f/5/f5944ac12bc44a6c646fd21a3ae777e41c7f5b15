@@ -1,0 +1,27 @@
+
+›	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(á‰Ø8é“ø±‚2J$ef81861b-2d56-4d53-9861-e4f709f56843
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ü½¨¯‚2J$2b5684e7-be6e-424e-958f-a747a4a7c04f
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ü½¨¯‚2J$5622765b-8d28-482b-a117-e93de5542669
+{
+java:S1144”"7Remove this unused private "addCostAttribution" method.(ø™Âª8†”ø±‚2J$8e8e288c-e573-49da-a0e6-0d0dd902e3fd
+š
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ªÏš§ÿÿÿÿÿ8—¾¨¯‚2J$476f9e87-60b1-4f9e-8010-f3da3f8ad89c
+r	java:S1062"+Replace this use of System.out by a logger.(†ª ®ıÿÿÿÿ8Ÿ¾¨¯‚2J$91c5cd77-bbe1-4abc-a052-31b69f934e44
+”
+java:S1858G"L"startTime" is already a string, there's no need to call "toString()" on it.(Î¥¬ÿÿÿÿÿ8×†ù±‚2J$409e6291-0248-48b1-8841-11920fc26a21
+m	java:S106Q"+Replace this use of System.out by a logger.(€ƒò8Æ”ø±‚2J$8d7434f9-26ae-4824-b957-d70b213f7756
+
+java:S1155d">Use isEmpty() to check whether the collection is empty or not.(ĞøÇà8Ú”ø±‚2J$b71b0187-9963-4bdc-8439-77412ef986d8
+™
+java:S3457e"Q%n should be used in place of \n to produce the platform-specific line separator.(ªØî‹ûÿÿÿÿ8Ü”ø±‚2J$51b8242d-d25f-4421-9d5f-2f2b700ec743
+r	java:S106e"+Replace this use of System.out by a logger.(ªØî‹ûÿÿÿÿ8İ”ø±‚2J$31488541-4224-4a02-b6d8-ee60077cad87
+r	java:S106f"+Replace this use of System.out by a logger.(ì¼Úõıÿÿÿÿ8ç”ø±‚2J$721efb19-a097-4a53-87ba-5e5ccb2c9932
+u
+java:S1135h"2Complete the task associated to this TODO comment.(¹µ½8è”ø±‚2J$a49ed6fc-48ba-4aa2-9b08-6373d0e287f1
+ƒ	java:S125o"<This block of commented-out lines of code should be removed.(ÖÔÄœúÿÿÿÿ8ê”ø±‚2J$3435c9bb-0821-4ffc-b982-1ca1b8cd89bc
+‚
+java:S3400‰"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8†•ø±‚2J$7a7e09e6-234c-433b-a329-5ae9fe95ba59
+v
+java:S1135ˆ"2Complete the task associated to this TODO comment.(ß€¾–8‡•ø±‚2J$e287037f-8536-4af4-a0ad-edf3e963e364

@@ -1,0 +1,25 @@
+
+›	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(á‰Ø8é“ø±‚2J$b169139f-737e-4142-aa34-ae25fdfc5b18
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ü½¨¯‚2J$e2a273f4-dc96-41bc-a9c5-eddaf9549764
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ü½¨¯‚2J$bfa39142-e748-4ac2-8c77-55c5cf0cfd6b
+{
+java:S1144”"7Remove this unused private "addCostAttribution" method.(ø™Âª8†”ø±‚2J$6ef3766c-599e-481a-b2e3-7e455a804b70
+š
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ªÏš§ÿÿÿÿÿ8—¾¨¯‚2J$eef1f8b7-6873-4dab-a8b5-57fbe33743c1
+r	java:S1062"+Replace this use of System.out by a logger.(†ª ®ıÿÿÿÿ8Ÿ¾¨¯‚2J$217b5b9a-d8c3-4bac-8e8a-3afe186af741
+”
+java:S1858G"L"startTime" is already a string, there's no need to call "toString()" on it.(Î¥¬ÿÿÿÿÿ8×†ù±‚2J$5c442889-cbdf-414c-8992-35689ac1176a
+m	java:S106Q"+Replace this use of System.out by a logger.(€ƒò8Æ”ø±‚2J$8129b275-70a4-4b64-bef3-9d433381ed4a
+
+java:S1155d">Use isEmpty() to check whether the collection is empty or not.(ĞøÇà8Ú”ø±‚2J$4d19399d-db38-4892-b09b-1a86eb052f63
+r	java:S106e"+Replace this use of System.out by a logger.(ªØî‹ûÿÿÿÿ8İ”ø±‚2J$98f0869b-50c4-44fa-833e-6664847832f5
+r	java:S106f"+Replace this use of System.out by a logger.(ì¼Úõıÿÿÿÿ8ç”ø±‚2J$a11e215c-763a-40b1-80ef-8ec650a0ffcd
+u
+java:S1135h"2Complete the task associated to this TODO comment.(¹µ½8è”ø±‚2J$f5779aa3-3682-408a-a5d2-b3476ad0e043
+ƒ	java:S125o"<This block of commented-out lines of code should be removed.(ÖÔÄœúÿÿÿÿ8ê”ø±‚2J$b2e80aec-007b-4183-ac6f-052adf19fa3a
+‚
+java:S3400‰"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8†•ø±‚2J$50e6a871-1061-42b7-aed0-eaad9e486036
+v
+java:S1135ˆ"2Complete the task associated to this TODO comment.(ß€¾–8‡•ø±‚2J$e41b214d-97a8-4373-8da3-267225323e44
